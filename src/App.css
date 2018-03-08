@@ -1,0 +1,52 @@
+.App {
+  text-align: left;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.cart-items {
+
+}
+.cart-items h1 {
+  padding: 10px;
+  margin: 0;
+}
+.product-list {
+  padding: 10px;
+  border-bottom: 1px solid #e2e2e2;
+}
+.red-txt {
+  color: #f00;
+  font-size: 13px;
+}
+.prod-prop {
+  font-size: 12px;
+}
+.txt-right {
+  text-align: right;
+  font-weight: bold;
+  padding: 10px;
+}
